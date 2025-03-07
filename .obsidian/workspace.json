@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "02d51b2bab5d1fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c1969e17b584255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7303b6e409c7b8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- MOCs/Books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85cc2d51b571c617",
+    "type": "split",
+    "children": [
+      {
+        "id": "63bf327241e350a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b72041633c41023",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9349a82b8578c467",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#video_script/hfooad/ch3",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "756a39bbe3ec5820",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5116500854492
+  },
+  "right": {
+    "id": "375113069dbe75d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc10692b436d057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61341da42754d856",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5- Projects/Articles/Some useState properties.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Some useState properties"
+            }
+          },
+          {
+            "id": "a1f641ecdd5e48ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5- Projects/Articles/Some useState properties.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Some useState properties"
+            }
+          },
+          {
+            "id": "e129229f75fb3611",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8857c93fcc21c430",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "94847cdc9cfbedd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5- Projects/Articles/Some useState properties.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Some useState properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "7303b6e409c7b8d7",
+  "lastOpenFiles": [
+    "Home.md",
+    "1- MOCs/Books.md",
+    "_/_Inbox/useState for one-time initializations.md",
+    "1- MOCs/Readings & Studying.md",
+    "3- Permanent/When to useState vs useReducer.md",
+    "_/_Inbox/Untitled.md",
+    "_/_Inbox/Best full stack projects for cv.md",
+    "2- Fleeting/Obsidian folder structure for zettlekasten.md",
+    "3- Permanent/Current structure 2025-03-07.md",
+    "5- Projects/Books Notes",
+    "1- MOCs/Figuring out obsidian.md",
+    "1- MOCs/Eraasoft.md",
+    "5- Projects/Eraasoft/hfooad book video scripts/hfooad chapter 1 script.md",
+    "5- Projects/Eraasoft/hfooad book video scripts/hfooad chapter 2 script.md",
+    "5- Projects/Eraasoft/hfooad book video scripts/hfooad chapter 3 script.md",
+    "5- Projects/Eraasoft/hfooad book video scripts/intro.md",
+    "5- Projects/Eraasoft/Pre programming/video list.md",
+    "5- Projects/Eraasoft/Pre programming",
+    "1- MOCs/How to take better Notes.md",
+    "3- Permanent/Plugins to check out.md",
+    "3- Permanent/How to take better (book) notes.md",
+    "3- Permanent/How to rediscover old notes.md",
+    "3- Permanent/How to organize notes with MOCs.md",
+    "3- Permanent/How do we get more knowledge and experience.md",
+    "3- Permanent/How Ai helps with writing, analytics, and personal life..md",
+    "3- Permanent/Don't over useState.md",
+    "3- Permanent/cross context learning.md",
+    "1- MOCs/Thinking, studying, how our brains work..md",
+    "_Assets/Pasted image 20250221234436.png",
+    "_/_Inbox/multi tenant e-commerce saas",
+    "5- Projects/Books Notes/Head First OOAD",
+    "_/_Assets",
+    "4- Journals",
+    "2- Fleeting"
+  ]
+}
