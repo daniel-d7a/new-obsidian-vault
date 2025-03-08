@@ -3,14 +3,12 @@
 - split to get the book name and make a lvl3 heading
 - display all book related notes
 
-
-
 ```dataviewjs
 const pages = dv.pages('#books')
 
 const bookTypes = new Set() 
 
-dv.list(pages)
+dv.list(pages.map(p=>p.file.link))
 ```
 
 ```dataviewjs
