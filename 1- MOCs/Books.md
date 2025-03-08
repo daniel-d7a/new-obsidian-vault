@@ -11,6 +11,8 @@ const bookTypes = new Set()
 dv.list(pages.map(p=>p.file.link))
 ```
 
+what is happening
+
 ```dataviewjs
 
 const inlinks = dv.current().file.inlinks
